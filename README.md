@@ -26,7 +26,8 @@ Esse desejo me trouxe, em 2023, ao curso de Análise e Desenvolvimento de Sistem
 - TypeScript  
 - React  
 - HTML  
-- CSS  
+- CSS
+- MySQL
 
 ---
 
