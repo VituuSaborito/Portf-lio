@@ -2,8 +2,9 @@
 
 <img align="left" src="https://github.com/VituuSaborito/Portf-lio/blob/main/images/profile.jpg" alt="my-profile" width="250"/>
 
-#### Meu nome é Vitor Saborito, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico de Informática para Internet realizado pela ETEC. Durante esse período, tive contato com algumas linguagens de programação, como PHP e SQL, mas senti que precisava me aprofundar mais para conseguir maior destaque no mercado de trabalho.
-#### Esse desejo me trouxe, em 2023, ao curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos.
+#### Meu nome é Vitor Saborito, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico de Informática para Internet realizado pela ETEC. Durante esse período, tive contato com algumas linguagens de programação, como PHP e SQL, mas senti que precisava me aprofundar mais para conseguir maior destaque no mercado de trabalho.  
+#### Esse desejo me trouxe, em 2023, ao curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Desde então, venho buscando oportunidades para ingressar na área de tecnologia, com o objetivo de aplicar na prática os conhecimentos adquiridos e seguir evoluindo como profissional.
+
 <br  >
 <br>
 
