@@ -2,11 +2,11 @@
 
 <img align="left" src="https://github.com/VituuSaborito/Portf-lio/blob/main/images/profile.jpg" alt="my-profile" width="255"/>
 
-Meu nome é Vitor Saborito, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico de Informática para Internet realizado pela ETEC. Durante esse período, tive contato com algumas linguagens de programação, como PHP e SQL, mas senti que precisava me aprofundar mais para conseguir maior destaque no mercado de trabalho. 
+Meu nome é Vitor Saborito, tenho 20 anos. Iniciei meus estudos na área de computação no ano de 2020 com um curso Técnico em Informática para Internet realizado pela ETEC. Durante esse período, tive contato com algumas linguagens de programação, como PHP e SQL, mas senti que precisava me aprofundar mais para conseguir maior destaque no mercado de trabalho.
 
 Esse desejo me trouxe, em 2023, ao curso de Análise e Desenvolvimento de Sistemas da FATEC de São José dos Campos. Desde então, venho buscando oportunidades para ingressar na área de tecnologia, com o objetivo de aplicar na prática os conhecimentos adquiridos e seguir evoluindo como profissional.
 
-<br  >
+<br>
 <br>
 
 ---
@@ -14,19 +14,27 @@ Esse desejo me trouxe, em 2023, ao curso de Análise e Desenvolvimento de Sistem
 ## 📫 Contatos
 
 - [GitHub](https://github.com/VituuSaborito)
+
 - [LinkedIn](https://www.linkedin.com/in/vitor-h-saborito/)
+
 - [E-mail](mailto:vitor.h.saborito@gmail.com)
 
 ---
 
 ## 🚀 Meus Principais Conhecimentos
 
-- Python  
-- JavaScript  
-- TypeScript  
-- React  
-- HTML  
+- Python
+
+- JavaScript
+
+- TypeScript
+
+- React
+
+- HTML
+
 - CSS
+
 - MySQL
 
 ---
@@ -34,7 +42,7 @@ Esse desejo me trouxe, em 2023, ao curso de Análise e Desenvolvimento de Sistem
 ## 💻 Meus Projetos
 
 <details>
-<summary><strong>Scrum Academy - 1º Semestre (2023-1)</strong></summary>
+<summary><strong>1º Semestre (2023-1)</strong></summary>
 
 ### 🏢 Sobre o Projeto
 
@@ -50,72 +58,244 @@ Como solução, minha equipe desenvolveu um sistema web de aprendizado, com uma 
 
 ### 🛠 Tecnologias Utilizadas
 
-- **HTML** – linguagem de marcação usada na estrutura do front-end  
-- **CSS** – linguagem de marcação usada na estilização do front-end  
-- **Python** – linguagem de programação usada no back-end  
-- **Flask** – framework do Python usado em páginas no front-end  
-- **JavaScript** – linguagem de programação usada no front-end  
+- **HTML** – linguagem de marcação usada na estrutura do frontend
+
+- **CSS** – linguagem de marcação usada na estilização do frontend
+
+- **Python** – linguagem de programação usada no backend
+
+- **Flask** – framework do Python usado em páginas no frontend
+
+- **JavaScript** – linguagem de programação usada no frontend
 
 ---
 
 ### 👨‍💻 Contribuições Pessoais
 
-Nesse projeto atuei como desenvolvedor e construí a página principal do projeto utilizando HTML e CSS.  
-Também fui responsável pela navegação das páginas, pela criação do layout de algumas delas e por grande parte da estilização do projeto. 
+Nesse projeto atuei como desenvolvedor e construí a página principal do projeto utilizando HTML e CSS.
+Também fui responsável pela navegação das páginas, pela criação do layout de algumas delas e por grande parte da estilização do projeto, como a página Home e todas as páginas de conteúdo explicativo.
 
 ---
 
 ### 🧠 Hard Skills
 
-- HTML – uso com autonomia  
-- CSS – uso com autonomia  
-- Python – uso com autonomia  
-- Flask – uso com autonomia  
-- JavaScript – uso com ajuda  
+- **HTML** – uso com autonomia
+
+- **CSS** – uso com autonomia
+
+- **Python** – uso com autonomia
+
+- **Flask** – uso com autonomia
+
+- **JavaScript** – uso com ajuda
 
 ---
 
 ### 🤝 Soft Skills
 
-Durante esse projeto, tive que usar de muita resiliência, pois a grande maioria do meu grupo estava tendo seu primeiro contato com programação nesse semestre.  
-Também tivemos um grande aumento na carga de trabalho devido à saída de um membro do time de desenvolvimento.  
-Mesmo com essas dificuldades, conseguimos concluir o projeto com êxito.
+Durante esse projeto, precisei de muita resiliência, pois a grande maioria do meu grupo estava tendo seu primeiro contato com programação nesse semestre. Também tivemos um grande aumento na carga de trabalho devido à saída de um membro do time de desenvolvimento. Mesmo com essas dificuldades, conseguimos concluir o projeto com êxito.
 
 </details>
 
+<details>
 
-<!-- <details>
-  <summary><strong>- 2º Semestre (2023-2)</strong></summary>
-  ### 🏢 Sobre o Projeto
-  ### 🛠 Tecnologias Utilizadas
-  ### 👨‍💻 Contribuições Pessoais
-  ### 🧠 Hard Skills
-  ### 🤝 Soft Skills
+  <summary><strong>2º Semestre (2023-2)</strong></summary>
+
+### 🏢 Sobre o Projeto
+
+O projeto desenvolvido no segundo semestre teve como empresa parceira novamente a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araujo Bertoti, que assumiu o papel de cliente final.
+
+O problema apresentado consistia na limitação das inteligências artificiais em responder perguntas com base em contextos mais específicos, como informações contidas em textos, o que dificultava a busca por dados relevantes em documentos extensos.
+
+Como solução, minha equipe desenvolveu um chatbot capaz de extrair e responder perguntas com base em textos fornecidos pelo próprio usuário, oferecendo agilidade e eficiência na obtenção de informações em materiais longos.
+
+🔗 [Repositório do Projeto no GitHub](https://github.com/VituuSaborito/Lotus)
+
+---
+
+### 🛠 Tecnologias Utilizadas
+
+- **Java** – Linguagem de programação utilizada em todo o projeto;
+
+- **MySQL** – Banco de dados utilizado para guardar os arquivos inseridos e os logins
+
+---
+
+### 👨‍💻 Contribuições Pessoais
+
+Neste projeto atuei como Scrum Master, realizando Daily Scrums semanalmente para acompanhar o desenvolvimento dos membros da equipe. Também ajudei no desenvolvimento do projeto com a criação das páginas de Cadastro, Login, Respostas e de Visualização das entradas. Além de ser responsável pela criação do Banco de Dados
+
+---
+
+### 🧠 Hard Skills
+
+- **Java** – Uso com ajuda;
+
+- **MySQL** – Uso com autonomia.
+
+---
+
+### 🤝 Soft Skills
+
+Durante esse projeto, desenvolvi significativamente minhas habilidades de comunicação e trabalho em equipe. Atuando como Scrum Master, fui responsável por acompanhar o andamento das atividades de todos os integrantes do grupo, além de compreender e apoiar cada um diante de suas dificuldades.
+Também tivemos uma gestão de tempo eficiente, o que nos permitiu realizar as entregas com antecedência em relação aos prazos estabelecidos.
+
+</details>
+
+<details>
+  <summary><strong>3º Semestre (2024-1)</strong></summary>
+
+### 🏢 Sobre o Projeto
+
+O projeto desenvolvido no terceiro semestre do curso teve como empresa parceira a Pro4Tech, empresa que oferece serviços de transformação digital e inteligência artificial. Os requisitos foram apresentados durante o KickOff por um representante da empresa.
+
+O problema apresentado consistia na dificuldade de analisar e armazenar grandes volumes de informações provenientes de planilhas Excel, o que tornava o processo de tomada de decisão mais lento e ineficiente.
+
+Como solução, minha equipe desenvolveu um dashboard com uma interface intuitiva, que permite o envio de planilhas e a visualização dos dados por meio de gráficos, facilitando a análise e o acompanhamento das informações.
+
+🔗 [Repositório do Projeto no GitHub](https://github.com/Code-Lotus/api-3)
+
+---
+
+### 🛠 Tecnologias Utilizadas
+
+- **TypeScript** – Linguagem de programação utilizada com tipagem estática;
+
+- **React** – Biblioteca para construção das interfaces, integrada ao TypeScript;
+
+- **SCSS** – Pré-processador CSS que facilita a organização e reutilização de estilos;
+
+- **MySQL** – Banco de dados utilizado para guardar os arquivos inseridos e os logins
+
+---
+
+### 👨‍💻 Contribuições Pessoais
+
+Nesse projeto atuei como desenvolvedor, auxiliando na criação de algumas funções do backend, como a de deletar usuário e a de listar usuários. No frontend fui responsável pela criação da tabela de histórico, várias correções dos gráficos e as mudanças na tela de login. E também fiquei responsável pela criação do banco de dados.
+
+---
+
+### 🧠 Hard Skills
+
+- **TypeScript** – Uso com autonomia
+
+- **React** – Uso com autonomia
+
+- **SCSS** – Uso com autonomia
+
+- **MySQL** – Uso com autonomia
+
+---
+
+### 🤝 Soft Skills
+
+Durante esse projeto, desenvolvi significativamente minhas habilidades de colaboração e resolução de problemas. Atuando como parte do Dev Team, contribuí ativamente tanto no backend quanto no frontend, o que exigiu constante alinhamento com os demais membros da equipe para garantir a integração das funcionalidades.
+Além de exercitar minha proatividade, assumindo a responsabilidade pela criação do banco de dados.
+
 </details>
 <details>
-  <summary><strong>- 3º Semestre (2023-2)</strong></summary>
-  ### 🏢 Sobre o Projeto
-  ### 🛠 Tecnologias Utilizadas
-  ### 👨‍💻 Contribuições Pessoais
-  ### 🧠 Hard Skills
-  ### 🤝 Soft Skills
+  <summary><strong>4º Semestre (2024-2)</strong></summary>
+
+### 🏢 Sobre o Projeto
+
+O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados durante o KickOff por um representante da JJM LOG.
+
+O problema apresentado consistia nas dificuldades enfrentadas no gerenciamento logístico, causadas principalmente pela falta de integração entre os setores e pela comunicação interna ineficiente.
+
+Como solução, minha equipe desenvolveu uma plataforma integrada, capaz de centralizar funções essenciais da rotina empresarial, promovendo maior organização e aprimorando significativamente a comunicação entre os setores da empresa.
+
+🔗 [Repositório do Projeto no GitHub](https://github.com/Byte-Boost/WeCollab)
+
+---
+
+### 🛠 Tecnologias Utilizadas
+
+- **TypeScript** – Linguagem de programação utilizada no frontend;
+
+- **JavaScript** – Linguagem de programação utilizada no backend;
+
+- **React** – Biblioteca para construção das interfaces, integrada ao TypeScript;
+
+- **Tailwind CSS** – Framework de estilização utilizado no frontend;
+
+- **MySQL** – Banco de dados utilizado para guardar os logins e outros dados.
+
+---
+
+### 👨‍💻 Contribuições Pessoais
+
+Nesse projeto atuei como desenvolvedor, fiquei responsável pela criação e estilização das páginas de login e ticket, além de auxiliar na aplicação dos gráficos.
+
+---
+
+### 🧠 Hard Skills
+
+- **TypeScript** – Uso com autonomia
+
+- **JavaScript** – Uso com ajuda
+
+- **React** – Uso com autonomia
+
+- **Tailwind CSS** – Uso com autonomia
+
+- **MySQL** – Uso com autonomia
+
+---
+
+### 🤝 Soft Skills
+
+Durante esse projeto, desenvolvi fortemente minha habilidade de proatividade ao ficar encarregado da criação e estilização das páginas de login e ticket, garantindo uma interface funcional e visualmente agradável para o usuário.
+
+Além disso, ao colaborar na aplicação dos gráficos, exercitei minha comunicação e trabalho em equipe.
 
 </details>
+
 <details>
-  <summary><strong>- 4º Semestre (2023-2)</strong></summary>
-  ### 🏢 Sobre o Projeto
-  ### 🛠 Tecnologias Utilizadas
-  ### 👨‍💻 Contribuições Pessoais
-  ### 🧠 Hard Skills
-  ### 🤝 Soft Skills
+  <summary><strong>5º Semestre (2025-1)</strong></summary>
+
+### 🏢 Sobre o Projeto
+
+O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, empresa especializada em desenvolvimento e implantação de soluções corporativas. Os requisitos foram apresentados durante o KickOff por um representante da GSW.
+
+O problema apresentado consistia na gestão ineficiente de reembolsos e despesas, causada por processos manuais e pela falta de integração entre as etapas do fluxo de reembolso.
+
+Como solução, minha equipe desenvolveu uma aplicação móvel que permite aos funcionários cadastrar suas despesas de forma prática, facilitando o processo de solicitação e controle dos reembolsos por parte da empresa.
+
+🔗 [Repositório do Projeto no GitHub](https://github.com/Byte-Boost/ExpenseFlow)
+
+---
+
+### 🛠 Tecnologias Utilizadas
+
+- **TypeScript** - Linguagem de programação utilizada no frontend;
+
+- **JavaScript** - Linguagem de programação utilizada no backend;
+
+- **React Native** - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
+
+- **PostgreSQL** - Banco de dados utilizado para guardar os logins e outros dados.
+
+---
+
+### 👨‍💻 Contribuições Pessoais
+
+Nesse projeto atuei como desenvolvedor, fui responsável pela estilização da página de usuário, pela criação da função de câmera para tirar fotos direto do app e também pela criação e estilização da página de detalhes do reembolso
+
+### 🧠 Hard Skills
+
+- **TypeScript** - Uso com autonomia
+
+- **JavaScript** - Uso com ajuda
+
+- **React Native** - Uso com autonomia
+
+- **PostgreSQL** - Uso com ajuda
+
+### 🤝 Soft Skills
+
+Durante esse projeto desenvolvi minha habilidade de autonomia ao ser responsável pela estilização da página de usuário e pela criação da funcionalidade de câmera.
+
+Também exercitei minha organização e gestão de tempo, por termos um prazo menor do que o normal, tendo que trabalhar com apenas três sprints em vez de quatro.
 
 </details>
-<details>
-  <summary><strong>- 5º Semestre (2023-2)</strong></summary>
-  ### 🏢 Sobre o Projeto
-  ### 🛠 Tecnologias Utilizadas
-  ### 👨‍💻 Contribuições Pessoais
-  ### 🧠 Hard Skills
-  ### 🤝 Soft Skills
 
-</details> -->
