@@ -82,3 +82,40 @@ Também tivemos um grande aumento na carga de trabalho devido à saída de um me
 Mesmo com essas dificuldades, conseguimos concluir o projeto com êxito.
 
 </details>
+
+
+<!-- <details>
+  <summary><strong>- 2º Semestre (2023-2)</strong></summary>
+  ### 🏢 Sobre o Projeto
+  ### 🛠 Tecnologias Utilizadas
+  ### 👨‍💻 Contribuições Pessoais
+  ### 🧠 Hard Skills
+  ### 🤝 Soft Skills
+</details>
+<details>
+  <summary><strong>- 3º Semestre (2023-2)</strong></summary>
+  ### 🏢 Sobre o Projeto
+  ### 🛠 Tecnologias Utilizadas
+  ### 👨‍💻 Contribuições Pessoais
+  ### 🧠 Hard Skills
+  ### 🤝 Soft Skills
+
+</details>
+<details>
+  <summary><strong>- 4º Semestre (2023-2)</strong></summary>
+  ### 🏢 Sobre o Projeto
+  ### 🛠 Tecnologias Utilizadas
+  ### 👨‍💻 Contribuições Pessoais
+  ### 🧠 Hard Skills
+  ### 🤝 Soft Skills
+
+</details>
+<details>
+  <summary><strong>- 5º Semestre (2023-2)</strong></summary>
+  ### 🏢 Sobre o Projeto
+  ### 🛠 Tecnologias Utilizadas
+  ### 👨‍💻 Contribuições Pessoais
+  ### 🧠 Hard Skills
+  ### 🤝 Soft Skills
+
+</details> -->
