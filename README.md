@@ -273,7 +273,9 @@ Como solução, minha equipe desenvolveu uma aplicação móvel que permite aos 
 
 - **React Native** - Biblioteca para construção das interfaces mobile, integrada ao TypeScript;
 
-- **PostgreSQL** - Banco de dados utilizado para guardar os logins e outros dados.
+- **MonogoDB** - Banco de dados utilizado para guardar preferencia dos projetos.
+  
+- **MySQL** - Banco de dados utilizado para guardar o login e outros dados.
 
 ---
 
@@ -289,7 +291,8 @@ Nesse projeto atuei como desenvolvedor, fui responsável pela estilização da p
 
 - **React Native** - Uso com autonomia
 
-- **PostgreSQL** - Uso com ajuda
+- **MongoDB** - Uso com ajuda
+- **MySQL** - Uso com autonomia
 
 ### 🤝 Soft Skills
 
