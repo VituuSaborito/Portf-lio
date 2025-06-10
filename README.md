@@ -42,7 +42,7 @@ Esse desejo me trouxe, em 2023, ao curso de Análise e Desenvolvimento de Sistem
 ## 💻 Meus Projetos
 
 <details>
-<summary><strong>1º Semestre (2023-1)</strong></summary>
+<summary><strong>Scrum Academy - 1º Semestre (2023-1)</strong></summary>
 
 ### 🏢 Sobre o Projeto
 
@@ -99,7 +99,7 @@ Durante esse projeto, precisei de muita resiliência, pois a grande maioria do m
 
 <details>
 
-  <summary><strong>2º Semestre (2023-2)</strong></summary>
+  <summary><strong>Lotus - 2º Semestre (2023-2)</strong></summary>
 
 ### 🏢 Sobre o Projeto
 
@@ -143,7 +143,7 @@ Também tivemos uma gestão de tempo eficiente, o que nos permitiu realizar as e
 </details>
 
 <details>
-  <summary><strong>3º Semestre (2024-1)</strong></summary>
+  <summary><strong>Code Lotus - 3º Semestre (2024-1)</strong></summary>
 
 ### 🏢 Sobre o Projeto
 
@@ -194,7 +194,7 @@ Além de exercitar minha proatividade, assumindo a responsabilidade pela criaç�
 
 </details>
 <details>
-  <summary><strong>4º Semestre (2024-2)</strong></summary>
+  <summary><strong>WeCollab - 4º Semestre (2024-2)</strong></summary>
 
 ### 🏢 Sobre o Projeto
 
@@ -251,7 +251,7 @@ Além disso, ao colaborar na aplicação dos gráficos, exercitei minha comunica
 </details>
 
 <details>
-  <summary><strong>5º Semestre (2025-1)</strong></summary>
+  <summary><strong>Expense FLow - 5º Semestre (2025-1)</strong></summary>
 
 ### 🏢 Sobre o Projeto
 
